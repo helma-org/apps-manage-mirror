@@ -1,1 +1,0 @@
-extends Prototype <a href="<% this.href action="list" %>"><% this.name %></a>
